@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/The_Venue_React/static/css/main.f5f94b01.chunk.css",
+    "main.js": "/The_Venue_React/static/js/main.268e4dfa.chunk.js",
+    "main.js.map": "/The_Venue_React/static/js/main.268e4dfa.chunk.js.map",
+    "runtime-main.js": "/The_Venue_React/static/js/runtime-main.1dc75630.js",
+    "runtime-main.js.map": "/The_Venue_React/static/js/runtime-main.1dc75630.js.map",
+    "static/js/2.d47b6668.chunk.js": "/The_Venue_React/static/js/2.d47b6668.chunk.js",
+    "static/js/2.d47b6668.chunk.js.map": "/The_Venue_React/static/js/2.d47b6668.chunk.js.map",
+    "index.html": "/The_Venue_React/index.html",
+    "static/css/main.f5f94b01.chunk.css.map": "/The_Venue_React/static/css/main.f5f94b01.chunk.css.map",
+    "static/js/2.d47b6668.chunk.js.LICENSE.txt": "/The_Venue_React/static/js/2.d47b6668.chunk.js.LICENSE.txt",
+    "static/media/slide_one.c0549cdc.jpg": "/The_Venue_React/static/media/slide_one.c0549cdc.jpg",
+    "static/media/slide_three.89588034.jpg": "/The_Venue_React/static/media/slide_three.89588034.jpg",
+    "static/media/slide_two.13a6beb9.jpg": "/The_Venue_React/static/media/slide_two.13a6beb9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1dc75630.js",
+    "static/js/2.d47b6668.chunk.js",
+    "static/css/main.f5f94b01.chunk.css",
+    "static/js/main.268e4dfa.chunk.js"
+  ]
+}
